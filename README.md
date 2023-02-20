@@ -1,2 +1,2 @@
-# Programming_Fundamentals
-this is programming fundamental working station
+# Programming_in_C_language
+simple and complex codes in C language
